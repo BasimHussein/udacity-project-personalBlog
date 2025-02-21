@@ -1,0 +1,54 @@
+.figure {
+  margin-bottom: 20px;
+}
+.caption {
+  font-size: 15px;
+  font-style: italic;
+}
+.related-links {
+  list-style: none;
+}
+.bio-list {
+  margin: auto;
+  list-style: none;
+}
+.avatar-bio {
+  width: 20vw;
+  display: block;
+  margin: 0 auto;
+  border: 2px solid #000000;
+  border-radius: 50%;
+}
+.first-blog-paragraph::first-letter {
+  text-transform: capitalize;
+  font-size: 30px;
+}
+.blog-paragraph {
+  line-height: 1.3;
+  margin-bottom: 20px;
+}
+.quote {
+  margin-bottom: 20px;
+  color: #4e4efa;
+  background-color: #91f2f2;
+  font-weight: bold;
+}
+.cite {
+  font-style: italic;
+  font-weight: normal;
+}
+.bold {
+  font-size: 23px;
+  color: #363636;
+  text-transform: uppercase;
+}
+.emphasize {
+  font-size: 24px;
+  color: #3d0101;
+  font-family: serif;
+}
+.underline {
+  font-size: 25px;
+  color: #000053;
+  background-color: #f5f582;
+}
